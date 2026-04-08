@@ -1,7 +1,7 @@
 # 🎮 Do Arcade à Arena Global
 ### Crescimento da Indústria de Gaming e a Explosão dos E-Sports
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/joaofelipemb/mvp-data-analytics-pucrio/blob/main/mvp_gaming_esports.ipynb](https://colab.research.google.com/drive/1yqttgu8iNL75DoWaMLF4zk5kZe_80Ptc?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/joaofelipemb/mvp-data-analytics-pucrio/blob/main/mvp_gaming_esports.ipynb](https://colab.research.google.com/drive/1yqttgu8iNL75DoWaMLF4zk5kZe_80Ptc?usp=sharing))
 
 ---
 
