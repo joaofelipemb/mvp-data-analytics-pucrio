@@ -77,7 +77,7 @@ mvp-data-analytics-pucrio/
 
 ## ⚙️ Como Executar
 
-1. Clique no botão **"Open in Colab"**, dentro do arquivo mvp_data_analytics.ipynb nesse repositório.
+1. Clique no botão **"Open in Colab"**, dentro do arquivo **mvp_data_analytics.ipynb** nesse repositório.
 2. No Colab, vá em **Runtime → Run all**
 3. Pronto — todos os datasets são carregados automaticamente via GitHub
 
